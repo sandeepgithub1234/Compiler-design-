@@ -1,0 +1,7 @@
+void main()
+{
+int c,d,mul;
+c=4;
+d=5;
+mul=c*d;
+}
